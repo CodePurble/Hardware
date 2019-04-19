@@ -1,0 +1,8 @@
+Digital read-write:
+	digitalRead
+	digitalWrite
+
+Analog read-write:
+	analogRead
+	analogWrite
+	
