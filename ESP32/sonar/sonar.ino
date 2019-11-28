@@ -1,4 +1,5 @@
-int distance, duration;
+int distance;
+unsigned long duration;
 
 void setup(){
 
